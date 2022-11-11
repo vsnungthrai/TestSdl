@@ -1,1 +1,2 @@
- gcc -o sdl sdl.c $(sdl2-config --cflags --libs)
+gcc -o sdl sdl.c $(sdl2-config --cflags --libs)
+./sdl
