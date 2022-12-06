@@ -1,5 +1,0 @@
-Pour MacOS : 
-https://www.xquartz.org/
-
-Pour windows : 
-https://sourceforge.net/projects/vcxsrv/
